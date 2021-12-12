@@ -1,0 +1,3 @@
+cube = int(input('enter the side of a cube'))
+cube1 = int(input('enter the side of a cube'))
+print(cube * cube1)
